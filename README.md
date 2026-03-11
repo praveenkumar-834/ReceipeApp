@@ -156,7 +156,7 @@ This project is deployed on **Vercel**.
 Example API URL
 
 ```
-https://your-project.vercel.app/api/recipes
+https://receipe-app-eight.vercel.app/api/recipes
 ```
 
 ---
@@ -170,4 +170,5 @@ You can test the API using **Postman** by sending HTTP requests to the endpoints
 ## Author
 
 Praveen Kumar
+
 
